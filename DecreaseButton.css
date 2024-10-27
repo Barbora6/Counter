@@ -1,0 +1,22 @@
+button {
+    padding: 10px 35px;
+    border: 2px solid rgb(140, 135, 135);
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 22px;
+    letter-spacing: 1.5px;
+    margin: 20px;
+}
+
+h4, h2 {
+    font-size: 22px;
+    margin: 40px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+button:hover {
+    color: red;
+}
